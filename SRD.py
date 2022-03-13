@@ -1,3 +1,5 @@
+### SRD significa Simulador de Rolagem de Dados
+
 from random import randint
 repeat_rolling = True
 while repeat_rolling:
